@@ -1,5 +1,16 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <style>
+      p {
+  font-family: Consolas,"courier new";
+  color: crimson;
+  background-color: #f1f1f1;
+  padding: 2px;
+  font-size: 105%;
+}
+    </style>
+  </head>
 <body>
 
 <h1>The code element</h1>
