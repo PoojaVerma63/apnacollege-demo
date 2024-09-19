@@ -1,9 +1,13 @@
+<!DOCTYPE html>
 <html>
-  <head>
-    <title>
-      hellow</title>
-  </head>
-  <body>
-    sfhksf
-  </body>
+<body>
+
+<h1>The code element</h1>
+
+<p>The HTML <code>button</code> tag defines a clickable button.</p>
+
+<p>The CSS <code>background-color</code> property defines the background color of an element.</p>
+
+</body>
 </html>
+
